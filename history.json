@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-03-26 21:05:41",
+        "crop": "Rice",
+        "state": "Karnataka",
+        "yield": 19156,
+        "percentage": 31.93,
+        "category": "Low",
+        "cat_color": "#dc3545"
+    },
+    {
+        "timestamp": "2026-04-02 19:51:22",
+        "crop": "Wheat",
+        "state": "Andhra Pradesh",
+        "yield": 17203,
+        "percentage": 28.67,
+        "category": "Low",
+        "cat_color": "#dc3545"
+    }
+]
